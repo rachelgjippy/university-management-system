@@ -225,14 +225,14 @@ git push origin main
 
 ## First Steps Checklist
 
-- [ ] Repository created on GitHub
-- [ ] All team members added as collaborators
-- [ ] Each team member has cloned the repository
+- [* ] Repository created on GitHub
+- [* ] All team members added as collaborators
+- [* ] Each team member has cloned the repository
 - [ ] Each team member can compile and run Main.java
-- [ ] Team has decided on communication channel
-- [ ] Team has scheduled first meeting
-- [ ] TASKS.md updated with team member names
-- [ ] README.md updated with team member names
+- [* ] Team has decided on communication channel
+- [ *] Team has scheduled first meeting
+- [ *] TASKS.md updated with team member names
+- [ *] README.md updated with team member names
 
 ---
 
