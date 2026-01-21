@@ -7,7 +7,7 @@ A console-based Java application for managing university courses, users, enrollm
 
 ## Team Information
 **Group Members:**
-1. [Student 1 Name] - User Management (Component 1)
+1. [Natao Grimado] - User Management (Component 1)
 2. [Rachel Gifty Jippy] - User Management (Component 1)
 3. [Student 3 Name] - Course Management (Component 2)
 4. [Student 4 Name] - Enrollment System (Component 3)
