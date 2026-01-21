@@ -1,5 +1,5 @@
 package com.university.models;
-
+import java.time.LocalDateTime;
 /**
  * Abstract base class for all users in the system.
  * Demonstrates INHERITANCE and ABSTRACTION.
@@ -25,7 +25,13 @@ public abstract class User {
     public String getUserId() {
         return userId;
     }
+public LocalDateTime getLastLoginDate() {
+    return lastLoginDate;
+}
 
+public void setLastLoginDate(LocalDateTime lastLoginDate) {
+    this.lastLoginDate = lastLoginDate;
+}
     public void setUserId(String userId) {
         this.userId = userId;
     }
@@ -73,7 +79,13 @@ public abstract class User {
      * @return The role of the user (e.g., "STUDENT", "INSTRUCTOR", "ADMIN")
      */
     public abstract String getRole();
+    public LocalDateTime getLastLoginDate() {
+        return lastLoginDate;
+    }
 
+    public void setLastLoginDate(LocalDateTime lastLoginDate) {
+        this.lastLoginDate = lastLoginDate;
+    }
     @Override
     public String toString() {
         return "User{" +
