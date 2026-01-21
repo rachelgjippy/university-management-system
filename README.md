@@ -11,8 +11,8 @@ A console-based Java application for managing university courses, users, enrollm
 2. [Rachel Gifty Jippy] - User Management (Component 1)
 3. [Student 3 Name] - Course Management (Component 2)
 4. [Student 4 Name] - Enrollment System (Component 3)
-5. [Student 5 Name] - Grade Management (Component 4)
-6. [Student 6 Name] - Notification System (Component 5)
+5. [Mohammed Rida /25398/2024] - Grade Management (Component 4)
+6. [Ammar babeker 29553/2025] - Notification System (Component 5)
 7. [Student 7 Name] - Reporting System (Component 6)
 8. [Student 8 Name] - Authentication & Data Persistence (Components 7 & 8)
 
