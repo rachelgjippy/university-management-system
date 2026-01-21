@@ -7,14 +7,14 @@ A console-based Java application for managing university courses, users, enrollm
 
 ## Team Information
 **Group Members:**
-1. [Student 1 Name] - User Management (Component 1)
-2. [Rachel Gifty Jippy] - User Management (Component 1)
-3. [Student 3 Name] - Course Management (Component 2)
-4. [Student 4 Name] - Enrollment System (Component 3)
-5. [Mohammed Rida /25398/2024] - Grade Management (Component 4)
-6. [Ammar babeker 29553/2025] - Notification System (Component 5)
-7. [Student 7 Name] - Reporting System (Component 6)
-8. Alvina Bailey - 24878/2024 - Authentication & Authorization (Component 7&8)
+1. [Nataogotango Grimado  - 30694/2025] - User Management (Component 1)
+2. [Rachel Gifty Jippy - 21355/2023] - Course Management (Component 2)
+3. [Student 3 Name] - Enrollment System (Component 3)
+4. [Mohammed Rida - 25398/2024] - Grade Management (Component 4)
+5. [Student 5 Name] - Notification System (Component 5)
+6. [Ammar babeker 29553/2025] -Reporting System (Component 6)
+7. [Alvina Bailey - 24878/2024] - Authentication &  Authorization (Component 7)
+8. [Mutora Marie Germaine - 26165/2024] - Data Persistence (Component 8)
 
 ---
 
