@@ -14,7 +14,7 @@ A console-based Java application for managing university courses, users, enrollm
 5. [Mohammed Rida /25398/2024] - Grade Management (Component 4)
 6. [Ammar babeker 29553/2025] - Notification System (Component 5)
 7. [Student 7 Name] - Reporting System (Component 6)
-8. [Student 8 Name] - Authentication & Data Persistence (Components 7 & 8)
+8. Alvina Bailey - 24878/2024 - Authentication & Authorization (Component 7&8)
 
 ---
 
